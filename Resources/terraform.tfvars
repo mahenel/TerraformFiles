@@ -1,0 +1,6 @@
+region                    = "ap-south-1"
+s3_bucket_name            = "mysamplebucket-mumbai-2"
+ecr_repo_name             = "samplerepo"
+codeartifact_domain       = "es"
+codeartifact_domain_owner = "647824729885"
+codeartifact_repo_name    = "sampleartifact"
